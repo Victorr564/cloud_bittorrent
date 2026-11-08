@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+target/
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker generated data
+volumes/
+torrent_downloads/
